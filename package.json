@@ -1,0 +1,13 @@
+{
+  "name": "countries-api",
+  "version": "1.0.0",
+  "description": "A project to fetch and process country data from an API.",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  },
+  "type": "module"
+}
